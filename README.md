@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Firaol Mk</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
-<img align = "right" alt="programming" width="400 src="https://media4.giphy.com/media/fmkYSBlJt3XjNF6p9c/200w.webp?cid=ecf05e47k3xnb5sksmubh71a9radjd4e8lj0fyri896qdi3s&ep=v1_gifs_search&rid=200w.webp&ct=g">
+<img align = "right" alt="programming" width="400 src="![Uploading image.png…]()
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firacil&label=Profile%20views&color=0e75b6&style=flat" alt="firacil" /> </p>
 
