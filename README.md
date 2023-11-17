@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firaol Mk</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
-<img align = "right" alt="programming" width="400 src="![Uploading image.png…]()
+<img align = "right" alt="programming" width="400 src="![image](https://github.com/firacil/firacil/assets/84915133/27489776-808a-4d58-8ac0-045e0b818385)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firacil&label=Profile%20views&color=0e75b6&style=flat" alt="firacil" /> </p>
