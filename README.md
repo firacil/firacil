@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Firaol Mk</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
-<img align = "right" alt="programming" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<img align = "right" alt="programming" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firacil&label=Profile%20views&color=0e75b6&style=flat" alt="firacil" /> </p>
 
