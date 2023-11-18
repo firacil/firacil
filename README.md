@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **firaolmekbib511@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I Enjoy Football & Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
