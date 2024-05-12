@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/firacil" target="blank"><img src="https://img.shields.io/twitter/follow/firacil?logo=twitter&style=for-the-badge" alt="firacil" /></a> </p>
 
-- 📝 I regularly write articles on [https://hashnode.com/@firacil](https://hashnode.com/@firacil)
+- 📝 I regularly write articles on [https://medium.com/@firacil](https://medium.com/@firacil)
 
 - 📫 How to reach me **firaolmekbib511@gmail.com**
 
