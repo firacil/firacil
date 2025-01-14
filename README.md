@@ -1,6 +1,6 @@
 ![logo](https://github.com/firacil/firacil/blob/main/set.png)
 <h1 align="center">Hello Welcome to my github page👋, I'm Firaol Mk</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align = "right" alt="programming" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
